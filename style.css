@@ -1,0 +1,26 @@
+/* Add your custom styles here if needed
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  div {
+    cursor: pointer;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  div:hover {
+    background-color: #f0f0f0;
+  }
+   */
+
+   html body {
+    /* background-image: url(red.jpg); */
+    /* background: url(https://xmple.com/wallpaper/single-one-colour-red-plain-solid-color-3840x2160-c-ff0000-f-24.svg); */
+    /* background: url(https://www.shareicon.net/data/128x128/2015/11/27/678853_logo_512x512.png); */
+    background: url(https://img.freepik.com/premium-vector/groovy-retro-daisy-flowers-background-groovy-flowers-seamless-pattern-groovy-floral-pastel-wallpaper-with-flowers-vintage-retro-70s-print-pastel-retro-80s-cartoon-paper-vector-illustration_166089-2043.jpg?w=1060);
+   }

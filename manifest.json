@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Background Changer",
+    "version": "1.0",
+    "description": "Change website background color with one click by Ritika Ghanti",
+    "icons": {
+      "128": "Image-File-icon.png"
+    }, 
+    "content_scripts" : [{
+        "matches": [ "http://*/*",
+        "https://*/*", "https://www.google.com/*"],
+        "css": ["style.css"]
+    }]
+  }
